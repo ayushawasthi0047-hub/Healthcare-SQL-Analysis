@@ -40,4 +40,12 @@ treatment cost patterns, readmission rates, and hospital performance insights.
 | Advanced | CTEs, Window Functions (RANK, SUM OVER), Subqueries |
 
 ## Query Screenshots
-[Add your screenshots here]
+<img width="640" height="135" alt="Query 6 result" src="https://github.com/user-attachments/assets/137fc075-9dc6-4a6f-ab12-c82e3e1d0067" />
+<img width="1092" height="192" alt="Query 8 result" src="https://github.com/user-attachments/assets/f9cbf946-ac29-45c2-b6a3-f73ddba767bd" />
+<img width="690" height="282" alt="Query 15 result" src="https://github.com/user-attachments/assets/6399ad58-5fb4-43d6-88de-0d60f6149a82" />
+<img width="701" height="170" alt="Query 13 result" src="https://github.com/user-attachments/assets/8a6d7365-eb17-4359-81b2-8cdc21faf5bc" />
+<img width="837" height="152" alt="Query 11 result" src="https://github.com/user-attachments/assets/fc79d3af-4dba-48cc-a3c9-366f7fc061e9" />
+
+
+
+
